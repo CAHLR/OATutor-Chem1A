@@ -509,7 +509,7 @@ app.post(
   `;
 
     provider.outcome_service.send_replace_result_with_text(
-      null,
+      score,
       text,
       (err, result) => {
         if (err || !result) {
