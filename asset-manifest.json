@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OATutor-Chem1A/static/css/main.ae3811db.css",
-    "main.js": "/OATutor-Chem1A/static/js/main.11bf64ad.js",
+    "main.js": "/OATutor-Chem1A/static/js/main.aa0ed373.js",
     "static/media/Symbola.svg": "/OATutor-Chem1A/static/media/Symbola.f647c9292a2da02d9ae8.svg",
     "static/media/Symbola.eot": "/OATutor-Chem1A/static/media/Symbola.d25fbd520f6558203fb4.eot",
     "static/media/Symbola.ttf": "/OATutor-Chem1A/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
@@ -9,10 +9,10 @@
     "static/media/Symbola.woff2": "/OATutor-Chem1A/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/OATutor-Chem1A/index.html",
     "main.ae3811db.css.map": "/OATutor-Chem1A/static/css/main.ae3811db.css.map",
-    "main.11bf64ad.js.map": "/OATutor-Chem1A/static/js/main.11bf64ad.js.map"
+    "main.aa0ed373.js.map": "/OATutor-Chem1A/static/js/main.aa0ed373.js.map"
   },
   "entrypoints": [
     "static/css/main.ae3811db.css",
-    "static/js/main.11bf64ad.js"
+    "static/js/main.aa0ed373.js"
   ]
 }
